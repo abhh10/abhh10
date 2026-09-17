@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abhiraj Karpe 👋</h1>
+<h1 align="center">hi, i'm abhiraj🧑‍💻</h1>
 <h3 align="center">Data Engineer | Building pipelines that move fast and don't break things</h3>
 
 <p align="center">
